@@ -1,0 +1,21 @@
+{
+  "name": "nodeServer-stackover-find",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^7.2.1",
+    "firebase-admin": "^8.6.1",
+    "install": "^0.13.0"
+  }
+}
